@@ -49,3 +49,4 @@ fabric.properties
 .idea/httpRequests
 .idea/caches/build_file_checksums.ser
 GraphQLTests.iml
+config.json
