@@ -1,0 +1,19 @@
+{
+  "name": "graphqltests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "author": "Patryk Adamczyk <patrykadamczyk@patrykadamczyk.net>",
+  "license": "MIT",
+  "dependencies": {
+    "apollo-server": "^2.9.5",
+    "graphql": "^14.5.8"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.3"
+  }
+}
